@@ -1,0 +1,19 @@
+From: Purchasing <purchasing@evergreen.example>
+To: orders@northfield.example
+Subject: Order request XR-19491
+Date: Mon, 12 Oct 2026 15:52:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: XR-19491
+Deliver by 9 Nov 2026
+Ship to: S01
+
+HF-0834-CS qty 10 @ $5.57
+
+Thanks,
+Purchasing
+Evergreen Paper Mills

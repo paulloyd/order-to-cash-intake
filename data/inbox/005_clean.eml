@@ -1,0 +1,21 @@
+From: Chris.Ironbridge <chris.ironbridge@ironbridge.example>
+To: orders@northfield.example
+Subject: New order
+Date: Mon, 12 Oct 2026 12:21:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+Purchase Order: XR-56604
+Required by 20 Oct 2026
+
+Qty: 20 Part: sk-1012-ss
+HA-1012-CS x 10
+
+Thanks,
+Chris
+Ironbridge Fabrication
+Account: C-1008

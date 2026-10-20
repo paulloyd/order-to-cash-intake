@@ -1,0 +1,20 @@
+From: Sam.Keystone <sam.keystone@keystone.example>
+To: orders@northfield.example
+Subject: Order request NW-33796
+Date: Mon, 12 Oct 2026 15:34:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: NW-33796
+Deliver by 15 Nov 2026
+Ship to: 7811 Commerce Dr, Albany, NY 12207
+
+BV-1012-CS qty 6 @ $24.00
+QC-0634-BR qty 5 @ $13.23
+
+Thanks,
+Sam
+Keystone Mining Services

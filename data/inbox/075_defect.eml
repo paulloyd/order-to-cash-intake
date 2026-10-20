@@ -1,0 +1,22 @@
+From: Jordan.Valley <jordan.valley@valley.example>
+To: orders@northfield.example
+Subject: New order
+Date: Tue, 13 Oct 2026 22:14:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO number: 4500602449
+Deliver by Oct 26, 2026
+Ship to: S02
+
+10 pcs HF-0412-SS
+40 x PG-1012-CS
+
+Thanks,
+Jordan
+Valley Press & Stamping
+Account: C-1021

@@ -1,0 +1,119 @@
+{
+  "cases": 100,
+  "by_status": {
+    "CONFIRMED": 39,
+    "SHIPPED": 56,
+    "DISCARDED": 3,
+    "NEEDS_REVIEW": 2
+  },
+  "by_channel": {
+    "email": 84,
+    "web_form": 6,
+    "magento": 10
+  },
+  "touchless": 48,
+  "touchless_rate": 0.48,
+  "assisted_confirmed": 47,
+  "open": 2,
+  "discarded": 3,
+  "avg_processing_ms_first_pass": 1.1,
+  "extractor_used": {
+    "rules": 84,
+    "structured": 16
+  },
+  "clarification_emails_sent": 37,
+  "customer_questions_bundled": 41,
+  "avg_questions_per_clarification_email": 1.11,
+  "emails_avoided_by_bundling_vs_one_per_issue": 4,
+  "customer_emails_per_case": 1.32,
+  "exceptions_first_pass": [
+    {
+      "code": "PRICE_MISMATCH",
+      "severity": "block",
+      "count": 8
+    },
+    {
+      "code": "MISSING_PO",
+      "severity": "block",
+      "count": 6
+    },
+    {
+      "code": "UNKNOWN_SKU",
+      "severity": "block",
+      "count": 6
+    },
+    {
+      "code": "BELOW_MOQ",
+      "severity": "block",
+      "count": 6
+    },
+    {
+      "code": "AMBIGUOUS_SKU",
+      "severity": "block",
+      "count": 5
+    },
+    {
+      "code": "PACK_MULTIPLE",
+      "severity": "block",
+      "count": 5
+    },
+    {
+      "code": "PAST_DATE",
+      "severity": "block",
+      "count": 5
+    },
+    {
+      "code": "MISSING_QTY",
+      "severity": "block",
+      "count": 4
+    },
+    {
+      "code": "MISSING_SHIP_TO",
+      "severity": "block",
+      "count": 4
+    },
+    {
+      "code": "UNKNOWN_CUSTOMER",
+      "severity": "block",
+      "count": 4
+    },
+    {
+      "code": "INSUFFICIENT_STOCK",
+      "severity": "warn",
+      "count": 4
+    },
+    {
+      "code": "DUPLICATE_PO",
+      "severity": "block",
+      "count": 3
+    },
+    {
+      "code": "CREDIT_HOLD",
+      "severity": "block",
+      "count": 2
+    },
+    {
+      "code": "CREDIT_LIMIT",
+      "severity": "block",
+      "count": 2
+    },
+    {
+      "code": "SHIP_TO_UNRECOGNIZED",
+      "severity": "block",
+      "count": 1
+    }
+  ],
+  "confirmed_order_value": 92756.07,
+  "hubspot_deals": 95,
+  "shipped": 56,
+  "MODELED_rep_minutes_manual": 1093.0,
+  "MODELED_rep_minutes_with_automation": 222.4,
+  "MODELED_rep_minutes_saved": 870.6,
+  "MODELED_assumptions": {
+    "manual_min_base": 6.0,
+    "manual_min_per_line": 1.5,
+    "manual_min_per_customer_email": 5.0,
+    "review_min_per_assisted_case": 4.0,
+    "monitor_min_per_touchless_case": 0.3
+  }
+}

@@ -1,0 +1,21 @@
+From: Drew.Redline <drew.redline@redline.example>
+To: orders@northfield.example
+Subject: Order request CE-34344
+Date: Tue, 13 Oct 2026 07:32:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: CE-34344
+Deliver by 2026-10-25
+Ship to: 857 Commerce Dr, Dayton, OH 45402
+
+PG-0634-CS qty 2 @ $22.68
+PG-0412-CS qty 10 @ $16.80
+HA0634SS qty 1 @ $82.08
+
+Thanks,
+Drew
+Redline Truck Bodies

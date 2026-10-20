@@ -1,0 +1,18 @@
+From: Jamie.Copperline <jamie.copperline@copperline.example>
+To: orders@northfield.example
+Subject: Order request
+Date: Mon, 12 Oct 2026 15:17:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: XR-73866
+Deliver by 25 Oct 2026
+
+ha-1012-ss qty 10 @ $145.92
+
+Thanks,
+Jamie
+Copperline Wire & Cable

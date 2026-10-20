@@ -1,0 +1,24 @@
+From: Chris.Juniper <chris.juniper@juniper.example>
+To: orders@northfield.example
+Subject: New order
+Date: Tue, 13 Oct 2026 20:18:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Resending in case you missed it - please enter this order.
+PO number: 4500737502
+Required by Oct 27, 2026
+Ship to: 4188 Industrial Pkwy, Tampa, FL 33602
+
+QC-1012-CS - 8 pcs
+QC-0834-SS x 6
+25 x QC-0412-SS
+Qty: 30 Part: HA-0834-BR
+
+Thanks,
+Chris
+Juniper Ag Systems
+Account: C-1009

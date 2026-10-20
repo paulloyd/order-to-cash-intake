@@ -1,0 +1,20 @@
+From: Casey.Meridian <casey.meridian@meridian.example>
+To: orders@northfield.example
+Subject: Order request
+Date: Mon, 12 Oct 2026 15:08:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: CE-66143
+Deliver by 2026-11-10
+Ship to: S01
+
+SK-1012-SS qty 25 @ $56.64
+
+Thanks,
+Casey
+Meridian Packaging
+Account: C-1012

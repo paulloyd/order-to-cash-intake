@@ -1,0 +1,24 @@
+From: Chris.Juniper <chris.juniper@juniper.example>
+To: orders@northfield.example
+Subject: Reorder
+Date: Mon, 12 Oct 2026 20:18:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+Purchase Order: 4500737502
+Required by 10/27/2026
+Ship to: 4188 Industrial Pkwy, Tampa, FL 33602
+
+Qty: 8 Part: JUNIP-13-3938
+Qty: 6 Part: JUNIP-52-7745
+JUNIP-40-3662 - 25 pcs
+JUNIP-62-3532 x 30
+
+Thanks,
+Chris
+Juniper Ag Systems
+Account: C-1009

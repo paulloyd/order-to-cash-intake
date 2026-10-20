@@ -1,0 +1,19 @@
+From: Jsmith <jsmith@unknown-co.example>
+To: orders@northfield.example
+Subject: New order
+Date: Tue, 13 Oct 2026 19:51:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO number: CE-21196
+Need by Oct 26, 2026
+
+ha-1012-ss - 40 pcs
+
+Thanks,
+Jsmith
+Walkin Supply Ltd

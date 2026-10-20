@@ -1,0 +1,18 @@
+From: Drew.Quarry <drew.quarry@quarry.example>
+To: orders@northfield.example
+Subject: Order request
+Date: Tue, 13 Oct 2026 03:36:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: 4500193047
+Deliver by 2026-11-04
+
+ZQ-9137-XX qty 15 @ $91.20
+
+Thanks,
+Drew
+Quarry Ridge Aggregates

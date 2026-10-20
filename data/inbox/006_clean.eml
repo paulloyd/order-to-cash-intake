@@ -1,0 +1,20 @@
+From: Taylor.Eastgate <taylor.eastgate@eastgate.example>
+To: orders@northfield.example
+Subject: New order
+Date: Mon, 12 Oct 2026 13:21:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+Purchase Order: XR-35782
+Need by 11/4/2026
+
+Qty: 50 Part: QC-0412-BR
+80 x HA-1012-CS
+
+Thanks,
+Taylor
+Eastgate Fluid Power

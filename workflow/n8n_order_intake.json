@@ -1,0 +1,288 @@
+{
+  "name": "Order-to-Cash Intake (starter)",
+  "nodes": [
+    {
+      "parameters": {
+        "mailbox": "INBOX",
+        "postProcessAction": "read",
+        "format": "simple",
+        "options": {}
+      },
+      "name": "Email Trigger (IMAP)",
+      "type": "n8n-nodes-base.emailReadImap",
+      "typeVersion": 2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "return $input.all().map(i => ({ json: { sender: (i.json.from || '').replace(/.*<(.+)>.*/, '$1'), subject: i.json.subject || '', body: i.json.textPlain || '', received_at: i.json.date } }));"
+      },
+      "name": "Normalize email",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        220,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:8000/intake/email",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json) }}",
+        "options": {}
+      },
+      "name": "POST /intake/email",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        440,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            {
+              "value1": "={{ $json.notify_rep }}",
+              "value2": true
+            }
+          ]
+        }
+      },
+      "name": "Needs rep review?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        660,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "fromEmail": "automation@example.com",
+        "toEmail": "customer-service@example.com",
+        "subject": "=Order {{ $json.ref }} needs review",
+        "text": "={{ 'Exceptions: ' + $json.exceptions.map(e => e.code + ' - ' + e.message).join('\\n') + '\\n\\nDraft to customer:\\n' + ($json.clarification_draft ? $json.clarification_draft.body : '(internal-only issues)') }}",
+        "options": {}
+      },
+      "name": "Email rep the case + draft",
+      "type": "n8n-nodes-base.emailSend",
+      "typeVersion": 2.1,
+      "position": [
+        880,
+        -80
+      ]
+    },
+    {
+      "parameters": {},
+      "name": "Touchless - done",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        880,
+        100
+      ]
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 15
+            }
+          ]
+        }
+      },
+      "name": "Every 15 minutes",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:8000/magento/pull",
+        "options": {}
+      },
+      "name": "POST /magento/pull",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        220,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:8000/shipments/sync",
+        "options": {}
+      },
+      "name": "POST /shipments/sync",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        440,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "order-form",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "name": "Portal order webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        0,
+        600
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:8000/intake/form",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json.body) }}",
+        "options": {}
+      },
+      "name": "POST /intake/form",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        220,
+        600
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json) }}",
+        "options": {}
+      },
+      "name": "Respond to portal",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [
+        440,
+        600
+      ]
+    }
+  ],
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "connections": {
+    "Email Trigger (IMAP)": {
+      "main": [
+        [
+          {
+            "node": "Normalize email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Normalize email": {
+      "main": [
+        [
+          {
+            "node": "POST /intake/email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "POST /intake/email": {
+      "main": [
+        [
+          {
+            "node": "Needs rep review?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Needs rep review?": {
+      "main": [
+        [
+          {
+            "node": "Email rep the case + draft",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Touchless - done",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Every 15 minutes": {
+      "main": [
+        [
+          {
+            "node": "POST /magento/pull",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "POST /magento/pull": {
+      "main": [
+        [
+          {
+            "node": "POST /shipments/sync",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Portal order webhook": {
+      "main": [
+        [
+          {
+            "node": "POST /intake/form",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "POST /intake/form": {
+      "main": [
+        [
+          {
+            "node": "Respond to portal",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

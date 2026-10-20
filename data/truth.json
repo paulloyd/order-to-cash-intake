@@ -1,0 +1,3535 @@
+[
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "NW-34983",
+  "true_account": "C-1018",
+  "fix_need": "2026-10-26",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "HF-0834-BR",
+    "fix_qty": 30
+   }
+  ],
+  "customer": "C-1018",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HF-0834-BR",
+    30
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "001_clean.eml",
+  "channel": "email",
+  "case_id": 1
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500665226",
+  "true_account": "C-1003",
+  "fix_need": "2026-10-26",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "BV-1012-SS",
+    "fix_qty": 25
+   }
+  ],
+  "customer": "C-1003",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "BV-1012-SS",
+    25
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "002_clean.eml",
+  "channel": "email",
+  "case_id": 2
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500786090",
+  "true_account": "C-1011",
+  "fix_need": "2026-10-26",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "PG-0412-CS",
+    "fix_qty": 20
+   }
+  ],
+  "customer": "C-1011",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "PG-0412-CS",
+    20
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "003_clean.eml",
+  "channel": "email",
+  "case_id": 3
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "NW-79220",
+  "true_account": "C-1027",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-1012-CS",
+    "fix_qty": 6
+   },
+   {
+    "sku": "HA-0634-SS",
+    "fix_qty": 4
+   },
+   {
+    "sku": "PG-0412-BR",
+    "fix_qty": 8
+   }
+  ],
+  "customer": "C-1027",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-1012-CS",
+    6
+   ],
+   [
+    "HA-0634-SS",
+    4
+   ],
+   [
+    "PG-0412-BR",
+    8
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "004_clean.eml",
+  "channel": "email",
+  "case_id": 4
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "XR-56604",
+  "true_account": "C-1008",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "SK-1012-SS",
+    "fix_qty": 20
+   },
+   {
+    "sku": "HA-1012-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1008",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "SK-1012-SS",
+    20
+   ],
+   [
+    "HA-1012-CS",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "005_clean.eml",
+  "channel": "email",
+  "case_id": 5
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "XR-35782",
+  "true_account": "C-1004",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0412-BR",
+    "fix_qty": 50
+   },
+   {
+    "sku": "HA-1012-CS",
+    "fix_qty": 80
+   }
+  ],
+  "customer": "C-1004",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-0412-BR",
+    50
+   ],
+   [
+    "HA-1012-CS",
+    80
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "006_clean.eml",
+  "channel": "email",
+  "case_id": 6
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500455003",
+  "true_account": "C-1015",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0834-SS",
+    "fix_qty": 3
+   }
+  ],
+  "customer": "C-1015",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-0834-SS",
+    3
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "007_clean.eml",
+  "channel": "email",
+  "case_id": 7
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500153274",
+  "true_account": "C-1001",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-0412-SS",
+    "fix_qty": 2
+   }
+  ],
+  "customer": "C-1001",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HF-0412-SS",
+    2
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "008_clean.eml",
+  "channel": "email",
+  "case_id": 8
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "CE-13669",
+  "true_account": "C-1016",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "AD-0634-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HF-1012-SS",
+    "fix_qty": 50
+   }
+  ],
+  "customer": "C-1016",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "AD-0634-CS",
+    10
+   ],
+   [
+    "HF-1012-SS",
+    50
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "009_clean.eml",
+  "channel": "email",
+  "case_id": 9
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "CE-78617",
+  "true_account": "C-1020",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-1012-BR",
+    "fix_qty": 2
+   },
+   {
+    "sku": "BV-1012-BR",
+    "fix_qty": 6
+   }
+  ],
+  "customer": "C-1020",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HF-1012-BR",
+    2
+   ],
+   [
+    "BV-1012-BR",
+    6
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "010_clean.eml",
+  "channel": "email",
+  "case_id": 10
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500200599",
+  "true_account": "C-1030",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "SK-0412-CS",
+    "fix_qty": 2
+   }
+  ],
+  "customer": "C-1030",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "SK-0412-CS",
+    2
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "011_clean.eml",
+  "channel": "email",
+  "case_id": 11
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500474318",
+  "true_account": "C-1012",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "AD-0634-CS",
+    "fix_qty": 20
+   },
+   {
+    "sku": "HF-1012-SS",
+    "fix_qty": 40
+   }
+  ],
+  "customer": "C-1012",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "AD-0634-CS",
+    20
+   ],
+   [
+    "HF-1012-SS",
+    40
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "012_clean.eml",
+  "channel": "email",
+  "case_id": 12
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "CE-66143",
+  "true_account": "C-1012",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "SK-1012-SS",
+    "fix_qty": 25
+   }
+  ],
+  "customer": "C-1012",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "SK-1012-SS",
+    25
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "013_clean.eml",
+  "channel": "email",
+  "case_id": 13
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "XR-73866",
+  "true_account": "C-1028",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-1012-SS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1028",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HA-1012-SS",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "014_clean.eml",
+  "channel": "email",
+  "case_id": 14
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "XR-67731",
+  "true_account": "C-1001",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0634-SS",
+    "fix_qty": 2
+   }
+  ],
+  "customer": "C-1001",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HA-0634-SS",
+    2
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "015_clean.eml",
+  "channel": "email",
+  "case_id": 15
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "NW-33796",
+  "true_account": "C-1010",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-1012-CS",
+    "fix_qty": 6
+   },
+   {
+    "sku": "QC-0634-BR",
+    "fix_qty": 5
+   }
+  ],
+  "customer": "C-1010",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "BV-1012-CS",
+    6
+   ],
+   [
+    "QC-0634-BR",
+    5
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "016_clean.eml",
+  "channel": "email",
+  "case_id": 16
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "XR-19491",
+  "true_account": "C-1030",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-0834-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1030",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HF-0834-CS",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "017_clean.eml",
+  "channel": "email",
+  "case_id": 17
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "XR-45108",
+  "true_account": "C-1012",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0412-SS",
+    "fix_qty": 20
+   }
+  ],
+  "customer": "C-1012",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HA-0412-SS",
+    20
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "018_clean.eml",
+  "channel": "email",
+  "case_id": 18
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "JB-68417",
+  "true_account": "C-1020",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-0412-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1020",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "PG-0412-BR",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "019_clean.eml",
+  "channel": "email",
+  "case_id": 19
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500519046",
+  "true_account": "C-1017",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0834-SS",
+    "fix_qty": 3
+   }
+  ],
+  "customer": "C-1017",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-0834-SS",
+    3
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "020_clean.eml",
+  "channel": "email",
+  "case_id": 20
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500074158",
+  "true_account": "C-1014",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0834-BR",
+    "fix_qty": 20
+   }
+  ],
+  "customer": "C-1014",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HA-0834-BR",
+    20
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "021_clean.eml",
+  "channel": "email",
+  "case_id": 21
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500282105",
+  "true_account": "C-1002",
+  "fix_need": "2026-10-26",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "HA-0834-CS",
+    "fix_qty": 3
+   },
+   {
+    "sku": "HA-1012-CS",
+    "fix_qty": 30
+   }
+  ],
+  "customer": "C-1002",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HA-0834-CS",
+    3
+   ],
+   [
+    "HA-1012-CS",
+    30
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "022_clean.eml",
+  "channel": "email",
+  "case_id": 22
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "JB-75898",
+  "true_account": "C-1003",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-0834-SS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HF-0412-CS",
+    "fix_qty": 3
+   },
+   {
+    "sku": "BV-0412-CS",
+    "fix_qty": 2
+   }
+  ],
+  "customer": "C-1003",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "PG-0834-SS",
+    10
+   ],
+   [
+    "HF-0412-CS",
+    3
+   ],
+   [
+    "BV-0412-CS",
+    2
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "023_clean.eml",
+  "channel": "email",
+  "case_id": 23
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500755684",
+  "true_account": "C-1026",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-1012-SS",
+    "fix_qty": 5
+   },
+   {
+    "sku": "SK-0634-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "PG-0412-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "QC-0834-CS",
+    "fix_qty": 40
+   }
+  ],
+  "customer": "C-1026",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HF-1012-SS",
+    5
+   ],
+   [
+    "SK-0634-CS",
+    10
+   ],
+   [
+    "PG-0412-CS",
+    10
+   ],
+   [
+    "QC-0834-CS",
+    40
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "024_clean.eml",
+  "channel": "email",
+  "case_id": 24
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "XR-83207",
+  "true_account": "C-1004",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-0634-BR",
+    "fix_qty": 30
+   },
+   {
+    "sku": "QC-0834-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1004",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HF-0634-BR",
+    30
+   ],
+   [
+    "QC-0834-BR",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "025_clean.eml",
+  "channel": "email",
+  "case_id": 25
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "JB-40773",
+  "true_account": "C-1010",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-1012-BR",
+    "fix_qty": 5
+   }
+  ],
+  "customer": "C-1010",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "BV-1012-BR",
+    5
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "026_clean.eml",
+  "channel": "email",
+  "case_id": 26
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500154586",
+  "true_account": "C-1023",
+  "fix_need": "2026-10-26",
+  "ship_true": "S03",
+  "lines_all": [
+   {
+    "sku": "BV-1012-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1023",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "BV-1012-BR",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "027_clean.eml",
+  "channel": "email",
+  "case_id": 27
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500513397",
+  "true_account": "C-1026",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "SK-0412-CS",
+    "fix_qty": 4
+   }
+  ],
+  "customer": "C-1026",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "SK-0412-CS",
+    4
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "028_clean.eml",
+  "channel": "email",
+  "case_id": 28
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "NW-47956",
+  "true_account": "C-1003",
+  "fix_need": "2026-10-26",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "HF-0634-BR",
+    "fix_qty": 10
+   },
+   {
+    "sku": "PG-0834-SS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1003",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HF-0634-BR",
+    10
+   ],
+   [
+    "PG-0834-SS",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "029_clean.eml",
+  "channel": "email",
+  "case_id": 29
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500737502",
+  "true_account": "C-1009",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-1012-CS",
+    "fix_qty": 8
+   },
+   {
+    "sku": "QC-0834-SS",
+    "fix_qty": 6
+   },
+   {
+    "sku": "QC-0412-SS",
+    "fix_qty": 25
+   },
+   {
+    "sku": "HA-0834-BR",
+    "fix_qty": 30
+   }
+  ],
+  "customer": "C-1009",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-1012-CS",
+    8
+   ],
+   [
+    "QC-0834-SS",
+    6
+   ],
+   [
+    "QC-0412-SS",
+    25
+   ],
+   [
+    "HA-0834-BR",
+    30
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "030_clean.eml",
+  "channel": "email",
+  "case_id": 30
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500787201",
+  "true_account": "C-1006",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0834-CS",
+    "fix_qty": 25
+   },
+   {
+    "sku": "SK-0412-CS",
+    "fix_qty": 8
+   }
+  ],
+  "customer": "C-1006",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-0834-CS",
+    25
+   ],
+   [
+    "SK-0412-CS",
+    8
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "031_clean.eml",
+  "channel": "email",
+  "case_id": 31
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500792363",
+  "true_account": "C-1030",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-0412-BR",
+    "fix_qty": 6
+   }
+  ],
+  "customer": "C-1030",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "PG-0412-BR",
+    6
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "032_clean.eml",
+  "channel": "email",
+  "case_id": 32
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500851404",
+  "true_account": "C-1012",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-1012-CS",
+    "fix_qty": 5
+   }
+  ],
+  "customer": "C-1012",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-1012-CS",
+    5
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "033_clean.eml",
+  "channel": "email",
+  "case_id": 33
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500495120",
+  "true_account": "C-1024",
+  "fix_need": "2026-10-26",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "AD-0834-SS",
+    "fix_qty": 8
+   }
+  ],
+  "customer": "C-1024",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "AD-0834-SS",
+    8
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "034_clean.eml",
+  "channel": "email",
+  "case_id": 34
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500217970",
+  "true_account": "C-1004",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0412-SS",
+    "fix_qty": 20
+   }
+  ],
+  "customer": "C-1004",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HA-0412-SS",
+    20
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "035_clean.eml",
+  "channel": "email",
+  "case_id": 35
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "JB-43863",
+  "true_account": "C-1012",
+  "fix_need": "2026-10-26",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-0412-BR",
+    "fix_qty": 20
+   }
+  ],
+  "customer": "C-1012",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "BV-0412-BR",
+    20
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "036_clean.eml",
+  "channel": "email",
+  "case_id": 36
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500602177",
+  "true_account": "C-1029",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0412-BR",
+    "fix_qty": 25
+   }
+  ],
+  "customer": "C-1029",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-0412-BR",
+    25
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "037_clean.eml",
+  "channel": "email",
+  "case_id": 37
+ },
+ {
+  "ref": null,
+  "kind": "clean",
+  "po_true": "4500445854",
+  "true_account": "C-1011",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "AD-0634-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1011",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "AD-0634-BR",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "038_clean.eml",
+  "channel": "email",
+  "case_id": 38
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "CE-29931",
+  "true_account": "C-1004",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-1012-CS",
+    "fix_qty": 1
+   },
+   {
+    "sku": "HF-0412-CS",
+    "fix_qty": 2
+   }
+  ],
+  "customer": "C-1004",
+  "defects": [
+   "missing_po"
+  ],
+  "expected_codes": [
+   "MISSING_PO"
+  ],
+  "expected_lines": [
+   [
+    "QC-1012-CS",
+    1
+   ],
+   [
+    "HF-0412-CS",
+    2
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "039_defect.eml",
+  "channel": "email",
+  "case_id": 39
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "XR-24697",
+  "true_account": "C-1005",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-1012-BR",
+    "fix_qty": 1
+   },
+   {
+    "sku": "HF-0412-SS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1005",
+  "defects": [
+   "missing_po"
+  ],
+  "expected_codes": [
+   "MISSING_PO"
+  ],
+  "expected_lines": [
+   [
+    "PG-1012-BR",
+    1
+   ],
+   [
+    "HF-0412-SS",
+    10
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "040_defect.eml",
+  "channel": "email",
+  "case_id": 40
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "XR-78980",
+  "true_account": "C-1027",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-1012-CS",
+    "fix_qty": 8
+   }
+  ],
+  "customer": "C-1027",
+  "defects": [
+   "missing_po"
+  ],
+  "expected_codes": [
+   "MISSING_PO"
+  ],
+  "expected_lines": [
+   [
+    "BV-1012-CS",
+    8
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "041_defect.eml",
+  "channel": "email",
+  "case_id": 41
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500237802",
+  "true_account": "C-1009",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-0412-SS",
+    "fix_qty": 2
+   },
+   {
+    "sku": "HA-0834-BR",
+    "fix_qty": 50
+   }
+  ],
+  "customer": "C-1009",
+  "defects": [
+   "unknown_sku"
+  ],
+  "expected_codes": [
+   "UNKNOWN_SKU"
+  ],
+  "expected_lines": [
+   [
+    "HF-0412-SS",
+    2
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "042_defect.eml",
+  "channel": "email",
+  "case_id": 42
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500277895",
+  "true_account": "C-1009",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-1012-CS",
+    "fix_qty": 1
+   },
+   {
+    "sku": "BV-0634-CS",
+    "fix_qty": 8
+   },
+   {
+    "sku": "SK-0634-CS",
+    "fix_qty": 15
+   }
+  ],
+  "customer": "C-1009",
+  "defects": [
+   "unknown_sku"
+  ],
+  "expected_codes": [
+   "UNKNOWN_SKU"
+  ],
+  "expected_lines": [
+   [
+    "BV-1012-CS",
+    1
+   ],
+   [
+    "BV-0634-CS",
+    8
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "043_defect.eml",
+  "channel": "email",
+  "case_id": 43
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500193047",
+  "true_account": "C-1016",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-1012-BR",
+    "fix_qty": 15
+   }
+  ],
+  "customer": "C-1016",
+  "defects": [
+   "unknown_sku"
+  ],
+  "expected_codes": [
+   "UNKNOWN_SKU"
+  ],
+  "expected_lines": [],
+  "expect_touchless": false,
+  "file": "044_defect.eml",
+  "channel": "email",
+  "case_id": 44
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500347810",
+  "true_account": "C-1011",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "SK-1012-SS",
+    "fix_qty": 30
+   },
+   {
+    "sku": "AD-1012-CS",
+    "fix_qty": 40
+   },
+   {
+    "sku": "HF-0834-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1011",
+  "defects": [
+   "ambiguous_sku"
+  ],
+  "expected_codes": [
+   "AMBIGUOUS_SKU"
+  ],
+  "expected_lines": [
+   [
+    "AD-1012-CS",
+    40
+   ],
+   [
+    "HF-0834-CS",
+    10
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "045_defect.eml",
+  "channel": "email",
+  "case_id": 45
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500390819",
+  "true_account": "C-1027",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-1012-CS",
+    "fix_qty": 8
+   },
+   {
+    "sku": "BV-0412-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HF-0412-CS",
+    "fix_qty": 1
+   }
+  ],
+  "customer": "C-1027",
+  "defects": [
+   "ambiguous_sku"
+  ],
+  "expected_codes": [
+   "AMBIGUOUS_SKU"
+  ],
+  "expected_lines": [
+   [
+    "BV-0412-CS",
+    10
+   ],
+   [
+    "HF-0412-CS",
+    1
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "046_defect.eml",
+  "channel": "email",
+  "case_id": 46
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500285542",
+  "true_account": "C-1023",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0834-SS",
+    "fix_qty": 2
+   },
+   {
+    "sku": "QC-0834-CS",
+    "fix_qty": 50
+   },
+   {
+    "sku": "PG-1012-BR",
+    "fix_qty": 2
+   }
+  ],
+  "customer": "C-1023",
+  "defects": [
+   "ambiguous_sku"
+  ],
+  "expected_codes": [
+   "AMBIGUOUS_SKU"
+  ],
+  "expected_lines": [
+   [
+    "QC-0834-SS",
+    2
+   ],
+   [
+    "QC-0834-CS",
+    50
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "047_defect.eml",
+  "channel": "email",
+  "case_id": 47
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500957920",
+  "true_account": "C-1029",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "QC-0834-BR",
+    "fix_qty": 15
+   },
+   {
+    "sku": "HA-0834-CS",
+    "fix_qty": 6
+   },
+   {
+    "sku": "AD-0634-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1029",
+  "defects": [
+   "missing_qty"
+  ],
+  "expected_codes": [
+   "MISSING_QTY"
+  ],
+  "expected_lines": [
+   [
+    "QC-0834-BR",
+    15
+   ],
+   [
+    "HA-0834-CS",
+    6
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "048_defect.eml",
+  "channel": "email",
+  "case_id": 48
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "CE-61338",
+  "true_account": "C-1020",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-0834-BR",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HF-0634-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1020",
+  "defects": [
+   "missing_qty"
+  ],
+  "expected_codes": [
+   "MISSING_QTY"
+  ],
+  "expected_lines": [
+   [
+    "HF-0834-BR",
+    10
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "049_defect.eml",
+  "channel": "email",
+  "case_id": 49
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500437089",
+  "true_account": "C-1006",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0412-CS",
+    "fix_qty": 25
+   },
+   {
+    "sku": "QC-0834-CS",
+    "fix_qty": 20
+   },
+   {
+    "sku": "HA-1012-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1006",
+  "defects": [
+   "below_moq"
+  ],
+  "expected_codes": [
+   "BELOW_MOQ"
+  ],
+  "expected_lines": [
+   [
+    "QC-0412-CS",
+    25
+   ],
+   [
+    "QC-0834-CS",
+    20
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "050_defect.eml",
+  "channel": "email",
+  "case_id": 50
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "CE-34344",
+  "true_account": "C-1017",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-0634-CS",
+    "fix_qty": 5
+   },
+   {
+    "sku": "PG-0412-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HA-0634-SS",
+    "fix_qty": 1
+   }
+  ],
+  "customer": "C-1017",
+  "defects": [
+   "below_moq"
+  ],
+  "expected_codes": [
+   "BELOW_MOQ"
+  ],
+  "expected_lines": [
+   [
+    "PG-0412-CS",
+    10
+   ],
+   [
+    "HA-0634-SS",
+    1
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "051_defect.eml",
+  "channel": "email",
+  "case_id": 51
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "JB-40525",
+  "true_account": "C-1002",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0412-SS",
+    "fix_qty": 15
+   }
+  ],
+  "customer": "C-1002",
+  "defects": [
+   "pack_multiple"
+  ],
+  "expected_codes": [
+   "PACK_MULTIPLE"
+  ],
+  "expected_lines": [],
+  "expect_touchless": false,
+  "file": "052_defect.eml",
+  "channel": "email",
+  "case_id": 52
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500039273",
+  "true_account": "C-1027",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "AD-0634-BR",
+    "fix_qty": 6
+   },
+   {
+    "sku": "HF-1012-SS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1027",
+  "defects": [
+   "pack_multiple"
+  ],
+  "expected_codes": [
+   "PACK_MULTIPLE"
+  ],
+  "expected_lines": [
+   [
+    "AD-0634-BR",
+    6
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "053_defect.eml",
+  "channel": "email",
+  "case_id": 53
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "XR-81833",
+  "true_account": "C-1002",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "BV-0412-CS",
+    "fix_qty": 5
+   },
+   {
+    "sku": "QC-0634-BR",
+    "fix_qty": 5
+   }
+  ],
+  "customer": "C-1002",
+  "defects": [
+   "price_mismatch"
+  ],
+  "expected_codes": [
+   "PRICE_MISMATCH"
+  ],
+  "expected_lines": [
+   [
+    "BV-0412-CS",
+    5
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "054_defect.eml",
+  "channel": "email",
+  "case_id": 54
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "JB-64274",
+  "true_account": "C-1011",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "HF-0412-SS",
+    "fix_qty": 3
+   },
+   {
+    "sku": "BV-0834-SS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1011",
+  "defects": [
+   "price_mismatch"
+  ],
+  "expected_codes": [
+   "PRICE_MISMATCH"
+  ],
+  "expected_lines": [
+   [
+    "HF-0412-SS",
+    3
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "055_defect.eml",
+  "channel": "email",
+  "case_id": 55
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "CE-27036",
+  "true_account": "C-1017",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-1012-CS",
+    "fix_qty": 50
+   },
+   {
+    "sku": "HA-0834-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1017",
+  "defects": [
+   "price_mismatch"
+  ],
+  "expected_codes": [
+   "PRICE_MISMATCH"
+  ],
+  "expected_lines": [
+   [
+    "HA-1012-CS",
+    50
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "056_defect.eml",
+  "channel": "email",
+  "case_id": 56
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "JB-26600",
+  "true_account": "C-1029",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "QC-0634-BR",
+    "fix_qty": 3
+   },
+   {
+    "sku": "AD-0634-BR",
+    "fix_qty": 8
+   }
+  ],
+  "customer": "C-1029",
+  "defects": [
+   "past_date"
+  ],
+  "expected_codes": [
+   "PAST_DATE"
+  ],
+  "expected_lines": [
+   [
+    "QC-0634-BR",
+    3
+   ],
+   [
+    "AD-0634-BR",
+    8
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "057_defect.eml",
+  "channel": "email",
+  "case_id": 57
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "CE-15467",
+  "true_account": "C-1006",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0834-CS",
+    "fix_qty": 50
+   },
+   {
+    "sku": "QC-0634-SS",
+    "fix_qty": 2
+   },
+   {
+    "sku": "HF-0412-CS",
+    "fix_qty": 5
+   },
+   {
+    "sku": "QC-0412-CS",
+    "fix_qty": 25
+   }
+  ],
+  "customer": "C-1006",
+  "defects": [
+   "past_date"
+  ],
+  "expected_codes": [
+   "PAST_DATE"
+  ],
+  "expected_lines": [
+   [
+    "QC-0834-CS",
+    50
+   ],
+   [
+    "QC-0634-SS",
+    2
+   ],
+   [
+    "HF-0412-CS",
+    5
+   ],
+   [
+    "QC-0412-CS",
+    25
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "058_defect.eml",
+  "channel": "email",
+  "case_id": 58
+ },
+ {
+  "ref": null,
+  "kind": "duplicate",
+  "po_true": "XR-73866",
+  "true_account": "C-1028",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-1012-SS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1028",
+  "defects": [
+   "duplicate_po"
+  ],
+  "expected_codes": [
+   "DUPLICATE_PO"
+  ],
+  "expected_lines": [
+   [
+    "HA-1012-SS",
+    10
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "059_duplicate.eml",
+  "channel": "email",
+  "case_id": 59
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500690846",
+  "true_account": "C-1029",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "BV-1012-SS",
+    "fix_qty": 25
+   },
+   {
+    "sku": "HA-0634-BR",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1029",
+  "defects": [
+   "missing_ship_to"
+  ],
+  "expected_codes": [
+   "MISSING_SHIP_TO"
+  ],
+  "expected_lines": [
+   [
+    "BV-1012-SS",
+    25
+   ],
+   [
+    "HA-0634-BR",
+    10
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "060_defect.eml",
+  "channel": "email",
+  "case_id": 60
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500451515",
+  "true_account": "C-1003",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "QC-0834-SS",
+    "fix_qty": 6
+   }
+  ],
+  "customer": "C-1003",
+  "defects": [
+   "missing_ship_to"
+  ],
+  "expected_codes": [
+   "MISSING_SHIP_TO"
+  ],
+  "expected_lines": [
+   [
+    "QC-0834-SS",
+    6
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "061_defect.eml",
+  "channel": "email",
+  "case_id": 61
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "XR-95556",
+  "true_account": "C-1029",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-1012-CS",
+    "fix_qty": 3
+   },
+   {
+    "sku": "HA-0834-BR",
+    "fix_qty": 10
+   },
+   {
+    "sku": "SK-1012-SS",
+    "fix_qty": 30
+   }
+  ],
+  "customer": "C-1029",
+  "defects": [
+   "ship_to_unrecognized"
+  ],
+  "expected_codes": [
+   "SHIP_TO_UNRECOGNIZED"
+  ],
+  "expected_lines": [
+   [
+    "BV-1012-CS",
+    3
+   ],
+   [
+    "HA-0834-BR",
+    10
+   ],
+   [
+    "SK-1012-SS",
+    30
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "062_defect.eml",
+  "channel": "email",
+  "case_id": 62
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500150546",
+  "true_account": "C-1019",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "QC-0634-SS",
+    "fix_qty": 8
+   },
+   {
+    "sku": "HA-1012-SS",
+    "fix_qty": 25
+   },
+   {
+    "sku": "SK-0412-CS",
+    "fix_qty": 1
+   }
+  ],
+  "customer": "C-1019",
+  "defects": [
+   "credit_hold"
+  ],
+  "expected_codes": [
+   "CREDIT_HOLD"
+  ],
+  "expected_lines": [
+   [
+    "QC-0634-SS",
+    8
+   ],
+   [
+    "HA-1012-SS",
+    25
+   ],
+   [
+    "SK-0412-CS",
+    1
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "063_defect.eml",
+  "channel": "email",
+  "case_id": 63
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500660368",
+  "true_account": "C-1007",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0834-BR",
+    "fix_qty": 25
+   },
+   {
+    "sku": "AD-0634-BR",
+    "fix_qty": 6
+   },
+   {
+    "sku": "PG-0412-CS",
+    "fix_qty": 40
+   }
+  ],
+  "customer": "C-1007",
+  "defects": [
+   "credit_hold"
+  ],
+  "expected_codes": [
+   "CREDIT_HOLD"
+  ],
+  "expected_lines": [
+   [
+    "HA-0834-BR",
+    25
+   ],
+   [
+    "AD-0634-BR",
+    6
+   ],
+   [
+    "PG-0412-CS",
+    40
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "064_defect.eml",
+  "channel": "email",
+  "case_id": 64
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500656008",
+  "true_account": "C-1013",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "HA-0834-CS",
+    "fix_qty": 6
+   },
+   {
+    "sku": "HF-0834-BR",
+    "fix_qty": 40
+   },
+   {
+    "sku": "PG-0412-CS",
+    "fix_qty": 30
+   }
+  ],
+  "customer": "C-1013",
+  "defects": [
+   "credit_limit"
+  ],
+  "expected_codes": [
+   "CREDIT_LIMIT"
+  ],
+  "expected_lines": [
+   [
+    "HA-0834-CS",
+    6
+   ],
+   [
+    "HF-0834-BR",
+    40
+   ],
+   [
+    "PG-0412-CS",
+    30
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "065_defect.eml",
+  "channel": "email",
+  "case_id": 65
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "XR-30791",
+  "true_account": "C-1025",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-0412-CS",
+    "fix_qty": 3
+   },
+   {
+    "sku": "HA-0412-SS",
+    "fix_qty": 50
+   },
+   {
+    "sku": "HA-0634-BR",
+    "fix_qty": 5
+   }
+  ],
+  "customer": "C-1025",
+  "defects": [
+   "credit_limit"
+  ],
+  "expected_codes": [
+   "CREDIT_LIMIT"
+  ],
+  "expected_lines": [
+   [
+    "BV-0412-CS",
+    3
+   ],
+   [
+    "HA-0412-SS",
+    50
+   ],
+   [
+    "HA-0634-BR",
+    5
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "066_defect.eml",
+  "channel": "email",
+  "case_id": 66
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500183122",
+  "true_account": "C-1016",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "AD-0834-SS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "BV-0834-SS",
+    "fix_qty": 60
+   }
+  ],
+  "customer": null,
+  "defects": [
+   "unknown_customer"
+  ],
+  "expected_codes": [
+   "UNKNOWN_CUSTOMER"
+  ],
+  "expected_lines": [
+   [
+    "AD-0834-SS",
+    10
+   ],
+   [
+    "BV-0834-SS",
+    60
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "067_defect.eml",
+  "channel": "email",
+  "case_id": 67
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "CE-94412",
+  "true_account": "C-1004",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0834-SS",
+    "fix_qty": 40
+   }
+  ],
+  "customer": null,
+  "defects": [
+   "unknown_customer"
+  ],
+  "expected_codes": [
+   "UNKNOWN_CUSTOMER"
+  ],
+  "expected_lines": [
+   [
+    "HA-0834-SS",
+    40
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "068_defect.eml",
+  "channel": "email",
+  "case_id": 68
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "CE-21196",
+  "true_account": "C-1010",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-1012-SS",
+    "fix_qty": 40
+   }
+  ],
+  "customer": null,
+  "defects": [
+   "unknown_customer"
+  ],
+  "expected_codes": [
+   "UNKNOWN_CUSTOMER"
+  ],
+  "expected_lines": [
+   [
+    "HA-1012-SS",
+    40
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "069_defect.eml",
+  "channel": "email",
+  "case_id": 69
+ },
+ {
+  "ref": null,
+  "kind": "duplicate",
+  "po_true": "4500737502",
+  "true_account": "C-1009",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-1012-CS",
+    "fix_qty": 8
+   },
+   {
+    "sku": "QC-0834-SS",
+    "fix_qty": 6
+   },
+   {
+    "sku": "QC-0412-SS",
+    "fix_qty": 25
+   },
+   {
+    "sku": "HA-0834-BR",
+    "fix_qty": 30
+   }
+  ],
+  "customer": "C-1009",
+  "defects": [
+   "duplicate_po"
+  ],
+  "expected_codes": [
+   "DUPLICATE_PO"
+  ],
+  "expected_lines": [
+   [
+    "QC-1012-CS",
+    8
+   ],
+   [
+    "QC-0834-SS",
+    6
+   ],
+   [
+    "QC-0412-SS",
+    25
+   ],
+   [
+    "HA-0834-BR",
+    30
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "070_duplicate.eml",
+  "channel": "email",
+  "case_id": 70
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "XR-71884",
+  "true_account": "C-1015",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-0834-SS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HF-0634-BR",
+    "fix_qty": 10
+   },
+   {
+    "sku": "PG-0634-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1015",
+  "defects": [
+   "description_only"
+  ],
+  "expected_codes": [
+   "UNKNOWN_SKU"
+  ],
+  "expected_lines": [
+   [
+    "PG-0834-SS",
+    10
+   ],
+   [
+    "HF-0634-BR",
+    10
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "071_defect.eml",
+  "channel": "email",
+  "case_id": 71
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "CE-13766",
+  "true_account": "C-1014",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-0412-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HF-0634-BR",
+    "fix_qty": 15
+   },
+   {
+    "sku": "AD-0834-SS",
+    "fix_qty": 8
+   }
+  ],
+  "customer": "C-1014",
+  "defects": [
+   "description_only"
+  ],
+  "expected_codes": [
+   "UNKNOWN_SKU"
+  ],
+  "expected_lines": [
+   [
+    "HF-0634-BR",
+    15
+   ],
+   [
+    "AD-0834-SS",
+    8
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "072_defect.eml",
+  "channel": "email",
+  "case_id": 72
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "NW-14438",
+  "true_account": "C-1008",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HF-0834-BR",
+    "fix_qty": 20
+   },
+   {
+    "sku": "PG-1012-BR",
+    "fix_qty": 21
+   }
+  ],
+  "customer": "C-1008",
+  "defects": [
+   "stock_shortage"
+  ],
+  "expected_codes": [
+   "INSUFFICIENT_STOCK"
+  ],
+  "expected_lines": [
+   [
+    "HF-0834-BR",
+    20
+   ],
+   [
+    "PG-1012-BR",
+    21
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "073_defect.eml",
+  "channel": "email",
+  "case_id": 73
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500050759",
+  "true_account": "C-1014",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-1012-CS",
+    "fix_qty": 25
+   },
+   {
+    "sku": "SK-1012-SS",
+    "fix_qty": 45
+   }
+  ],
+  "customer": "C-1014",
+  "defects": [
+   "stock_shortage"
+  ],
+  "expected_codes": [
+   "INSUFFICIENT_STOCK"
+  ],
+  "expected_lines": [
+   [
+    "PG-1012-CS",
+    25
+   ],
+   [
+    "SK-1012-SS",
+    45
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "074_defect.eml",
+  "channel": "email",
+  "case_id": 74
+ },
+ {
+  "ref": null,
+  "kind": "defect",
+  "po_true": "4500602449",
+  "true_account": "C-1021",
+  "fix_need": "2026-10-27",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "HF-0412-SS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "PG-1012-CS",
+    "fix_qty": 40
+   }
+  ],
+  "customer": "C-1021",
+  "defects": [
+   "stock_shortage"
+  ],
+  "expected_codes": [
+   "INSUFFICIENT_STOCK"
+  ],
+  "expected_lines": [
+   [
+    "HF-0412-SS",
+    10
+   ],
+   [
+    "PG-1012-CS",
+    40
+   ]
+  ],
+  "expect_touchless": true,
+  "file": "075_defect.eml",
+  "channel": "email",
+  "case_id": 75
+ },
+ {
+  "ref": null,
+  "kind": "combo",
+  "po_true": "CE-47189",
+  "true_account": "C-1022",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0634-BR",
+    "fix_qty": 2
+   },
+   {
+    "sku": "PG-0634-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1022",
+  "defects": [
+   "missing_qty",
+   "pack_multiple"
+  ],
+  "expected_codes": [
+   "MISSING_QTY",
+   "PACK_MULTIPLE"
+  ],
+  "expected_lines": [],
+  "expect_touchless": false,
+  "file": "076_combo.eml",
+  "channel": "email",
+  "case_id": 76
+ },
+ {
+  "ref": null,
+  "kind": "combo",
+  "po_true": "JB-66106",
+  "true_account": "C-1012",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-1012-BR",
+    "fix_qty": 1
+   },
+   {
+    "sku": "QC-0834-CS",
+    "fix_qty": 30
+   },
+   {
+    "sku": "QC-0634-BR",
+    "fix_qty": 3
+   }
+  ],
+  "customer": "C-1012",
+  "defects": [
+   "missing_po",
+   "price_mismatch"
+  ],
+  "expected_codes": [
+   "MISSING_PO",
+   "PRICE_MISMATCH"
+  ],
+  "expected_lines": [
+   [
+    "PG-1012-BR",
+    1
+   ],
+   [
+    "QC-0834-CS",
+    30
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "077_combo.eml",
+  "channel": "email",
+  "case_id": 77
+ },
+ {
+  "ref": null,
+  "kind": "combo",
+  "po_true": "4500350280",
+  "true_account": "C-1021",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "AD-0634-BR",
+    "fix_qty": 3
+   },
+   {
+    "sku": "AD-0634-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "PG-1012-CS",
+    "fix_qty": 30
+   }
+  ],
+  "customer": "C-1021",
+  "defects": [
+   "ambiguous_sku",
+   "missing_ship_to"
+  ],
+  "expected_codes": [
+   "AMBIGUOUS_SKU",
+   "MISSING_SHIP_TO"
+  ],
+  "expected_lines": [
+   [
+    "AD-0634-CS",
+    10
+   ],
+   [
+    "PG-1012-CS",
+    30
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "078_combo.eml",
+  "channel": "email",
+  "case_id": 78
+ },
+ {
+  "ref": null,
+  "kind": "combo",
+  "po_true": "NW-31574",
+  "true_account": "C-1010",
+  "fix_need": "2026-10-27",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0412-SS",
+    "fix_qty": 20
+   },
+   {
+    "sku": "PG-0412-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HF-0834-BR",
+    "fix_qty": 5
+   }
+  ],
+  "customer": "C-1010",
+  "defects": [
+   "below_moq",
+   "price_mismatch"
+  ],
+  "expected_codes": [
+   "BELOW_MOQ",
+   "PRICE_MISMATCH"
+  ],
+  "expected_lines": [
+   [
+    "HF-0834-BR",
+    5
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "079_combo.eml",
+  "channel": "email",
+  "case_id": 79
+ },
+ {
+  "ref": null,
+  "kind": "combo",
+  "po_true": "4500269707",
+  "true_account": "C-1017",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0412-BR",
+    "fix_qty": 15
+   },
+   {
+    "sku": "BV-0634-CS",
+    "fix_qty": 3
+   },
+   {
+    "sku": "SK-0634-CS",
+    "fix_qty": 15
+   }
+  ],
+  "customer": "C-1017",
+  "defects": [
+   "missing_qty",
+   "pack_multiple"
+  ],
+  "expected_codes": [
+   "MISSING_QTY",
+   "PACK_MULTIPLE"
+  ],
+  "expected_lines": [
+   [
+    "QC-0412-BR",
+    15
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "080_combo.eml",
+  "channel": "email",
+  "case_id": 80
+ },
+ {
+  "ref": null,
+  "kind": "combo",
+  "po_true": "4500164058",
+  "true_account": "C-1030",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0412-CS",
+    "fix_qty": 15
+   }
+  ],
+  "customer": "C-1030",
+  "defects": [
+   "unknown_sku",
+   "past_date"
+  ],
+  "expected_codes": [
+   "PAST_DATE",
+   "UNKNOWN_SKU"
+  ],
+  "expected_lines": [],
+  "expect_touchless": false,
+  "file": "081_combo.eml",
+  "channel": "email",
+  "case_id": 81
+ },
+ {
+  "ref": null,
+  "kind": "combo",
+  "po_true": "JB-81219",
+  "true_account": "C-1003",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-1012-BR",
+    "fix_qty": 6
+   },
+   {
+    "sku": "PG-0412-BR",
+    "fix_qty": 8
+   }
+  ],
+  "customer": "C-1003",
+  "defects": [
+   "past_date",
+   "missing_ship_to"
+  ],
+  "expected_codes": [
+   "MISSING_SHIP_TO",
+   "PAST_DATE"
+  ],
+  "expected_lines": [
+   [
+    "BV-1012-BR",
+    6
+   ],
+   [
+    "PG-0412-BR",
+    8
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "082_combo.eml",
+  "channel": "email",
+  "case_id": 82
+ },
+ {
+  "ref": null,
+  "kind": "combo",
+  "po_true": "NW-90478",
+  "true_account": "C-1020",
+  "fix_need": "2026-10-28",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "QC-0412-SS",
+    "fix_qty": 20
+   },
+   {
+    "sku": "QC-0634-BR",
+    "fix_qty": 2
+   },
+   {
+    "sku": "HA-1012-SS",
+    "fix_qty": 5
+   }
+  ],
+  "customer": "C-1020",
+  "defects": [
+   "below_moq",
+   "ambiguous_sku"
+  ],
+  "expected_codes": [
+   "AMBIGUOUS_SKU",
+   "BELOW_MOQ"
+  ],
+  "expected_lines": [
+   [
+    "QC-0412-SS",
+    20
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "083_combo.eml",
+  "channel": "email",
+  "case_id": 83
+ },
+ {
+  "ref": null,
+  "kind": "duplicate",
+  "po_true": "4500200599",
+  "true_account": "C-1030",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "SK-0412-CS",
+    "fix_qty": 2
+   }
+  ],
+  "customer": "C-1030",
+  "defects": [
+   "duplicate_po"
+  ],
+  "expected_codes": [
+   "DUPLICATE_PO"
+  ],
+  "expected_lines": [
+   [
+    "SK-0412-CS",
+    2
+   ]
+  ],
+  "expect_touchless": false,
+  "file": "084_duplicate.eml",
+  "channel": "email",
+  "case_id": 84
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "XR-25717",
+  "true_account": "C-1024",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-0412-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HA-0412-SS",
+    "fix_qty": 20
+   }
+  ],
+  "customer": "C-1024",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "BV-0412-CS",
+    10
+   ],
+   [
+    "HA-0412-SS",
+    20
+   ]
+  ],
+  "expect_touchless": true,
+  "channel": "magento",
+  "file": "MG-100045",
+  "case_id": 91
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "4500987458",
+  "true_account": "C-1009",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0412-BR",
+    "fix_qty": 25
+   },
+   {
+    "sku": "QC-0834-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1009",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "QC-0412-BR",
+    25
+   ],
+   [
+    "QC-0834-CS",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "channel": "magento",
+  "file": "MG-100046",
+  "case_id": 92
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "4500709769",
+  "true_account": "C-1029",
+  "fix_need": "2026-10-28",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "BV-0412-BR",
+    "fix_qty": 20
+   },
+   {
+    "sku": "HF-0834-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1029",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "BV-0412-BR",
+    20
+   ],
+   [
+    "HF-0834-CS",
+    10
+   ]
+  ],
+  "expect_touchless": true,
+  "channel": "magento",
+  "file": "MG-100047",
+  "case_id": 93
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "CE-98819",
+  "true_account": "C-1009",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "AD-0634-CS",
+    "fix_qty": 10
+   },
+   {
+    "sku": "HA-0634-SS",
+    "fix_qty": 3
+   }
+  ],
+  "customer": "C-1009",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "AD-0634-CS",
+    10
+   ],
+   [
+    "HA-0634-SS",
+    3
+   ]
+  ],
+  "expect_touchless": true,
+  "channel": "magento",
+  "file": "MG-100048",
+  "case_id": 94
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "4500078804",
+  "true_account": "C-1015",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0634-SS",
+    "fix_qty": 1
+   },
+   {
+    "sku": "QC-0834-BR",
+    "fix_qty": 50
+   }
+  ],
+  "customer": "C-1015",
+  "defects": [
+   "missing_po"
+  ],
+  "expected_codes": [
+   "MISSING_PO"
+  ],
+  "expected_lines": [
+   [
+    "HA-0634-SS",
+    1
+   ],
+   [
+    "QC-0834-BR",
+    50
+   ]
+  ],
+  "expect_touchless": false,
+  "channel": "magento",
+  "file": "MG-100049",
+  "case_id": 95
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "4500438580",
+  "true_account": "C-1029",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "BV-1012-CS",
+    "fix_qty": 2
+   }
+  ],
+  "customer": "C-1029",
+  "defects": [
+   "price_mismatch"
+  ],
+  "expected_codes": [
+   "PRICE_MISMATCH"
+  ],
+  "expected_lines": [],
+  "expect_touchless": false,
+  "channel": "magento",
+  "file": "MG-100050",
+  "case_id": 96
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "CE-77299",
+  "true_account": "C-1003",
+  "fix_need": "2026-10-28",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "BV-0412-SS",
+    "fix_qty": 5
+   },
+   {
+    "sku": "BV-0834-SS",
+    "fix_qty": 20
+   }
+  ],
+  "customer": "C-1003",
+  "defects": [
+   "price_mismatch"
+  ],
+  "expected_codes": [
+   "PRICE_MISMATCH"
+  ],
+  "expected_lines": [],
+  "expect_touchless": false,
+  "channel": "magento",
+  "file": "MG-100051",
+  "case_id": 97
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "4500872754",
+  "true_account": "C-1016",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-0412-BR",
+    "fix_qty": 10
+   },
+   {
+    "sku": "PG-0412-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1016",
+  "defects": [
+   "below_moq"
+  ],
+  "expected_codes": [
+   "BELOW_MOQ"
+  ],
+  "expected_lines": [
+   [
+    "PG-0412-BR",
+    10
+   ]
+  ],
+  "expect_touchless": false,
+  "channel": "magento",
+  "file": "MG-100052",
+  "case_id": 98
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "CE-46286",
+  "true_account": "C-1016",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-1012-BR",
+    "fix_qty": 21
+   }
+  ],
+  "customer": "C-1016",
+  "defects": [
+   "stock_shortage"
+  ],
+  "expected_codes": [
+   "INSUFFICIENT_STOCK"
+  ],
+  "expected_lines": [
+   [
+    "PG-1012-BR",
+    21
+   ]
+  ],
+  "expect_touchless": true,
+  "channel": "magento",
+  "file": "MG-100053",
+  "case_id": 99
+ },
+ {
+  "ref": null,
+  "kind": "magento",
+  "po_true": "CE-90272",
+  "true_account": "C-1008",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "QC-0834-SS",
+    "fix_qty": 1
+   },
+   {
+    "sku": "SK-0634-CS",
+    "fix_qty": 20
+   }
+  ],
+  "customer": null,
+  "defects": [
+   "unknown_customer"
+  ],
+  "expected_codes": [
+   "UNKNOWN_CUSTOMER"
+  ],
+  "expected_lines": [
+   [
+    "QC-0834-SS",
+    1
+   ],
+   [
+    "SK-0634-CS",
+    20
+   ]
+  ],
+  "expect_touchless": false,
+  "channel": "magento",
+  "file": "MG-100054",
+  "case_id": 100
+ },
+ {
+  "ref": null,
+  "kind": "form",
+  "po_true": "4500954430",
+  "true_account": "C-1003",
+  "fix_need": "2026-10-28",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "HF-0412-CS",
+    "fix_qty": 6
+   }
+  ],
+  "customer": "C-1003",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HF-0412-CS",
+    6
+   ]
+  ],
+  "expect_touchless": true,
+  "channel": "web_form",
+  "file": "form_1",
+  "case_id": 85
+ },
+ {
+  "ref": null,
+  "kind": "form",
+  "po_true": "4500545073",
+  "true_account": "C-1022",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-1012-SS",
+    "fix_qty": 40
+   },
+   {
+    "sku": "QC-1012-CS",
+    "fix_qty": 5
+   }
+  ],
+  "customer": "C-1022",
+  "defects": [],
+  "expected_codes": [],
+  "expected_lines": [
+   [
+    "HA-1012-SS",
+    40
+   ],
+   [
+    "QC-1012-CS",
+    5
+   ]
+  ],
+  "expect_touchless": true,
+  "channel": "web_form",
+  "file": "form_2",
+  "case_id": 86
+ },
+ {
+  "ref": null,
+  "kind": "form",
+  "po_true": "XR-68515",
+  "true_account": "C-1028",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0634-SS",
+    "fix_qty": 3
+   },
+   {
+    "sku": "PG-1012-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1028",
+  "defects": [
+   "missing_po"
+  ],
+  "expected_codes": [
+   "MISSING_PO"
+  ],
+  "expected_lines": [
+   [
+    "HA-0634-SS",
+    3
+   ],
+   [
+    "PG-1012-CS",
+    10
+   ]
+  ],
+  "expect_touchless": false,
+  "channel": "web_form",
+  "file": "form_3",
+  "case_id": 87
+ },
+ {
+  "ref": null,
+  "kind": "form",
+  "po_true": "NW-12549",
+  "true_account": "C-1010",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "HA-0412-SS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1010",
+  "defects": [
+   "below_moq"
+  ],
+  "expected_codes": [
+   "BELOW_MOQ"
+  ],
+  "expected_lines": [],
+  "expect_touchless": false,
+  "channel": "web_form",
+  "file": "form_4",
+  "case_id": 88
+ },
+ {
+  "ref": null,
+  "kind": "form",
+  "po_true": "4500525080",
+  "true_account": "C-1017",
+  "fix_need": "2026-10-28",
+  "ship_true": "S01",
+  "lines_all": [
+   {
+    "sku": "PG-0634-CS",
+    "fix_qty": 40
+   },
+   {
+    "sku": "PG-0634-CS",
+    "fix_qty": 10
+   }
+  ],
+  "customer": "C-1017",
+  "defects": [
+   "pack_multiple"
+  ],
+  "expected_codes": [
+   "PACK_MULTIPLE"
+  ],
+  "expected_lines": [
+   [
+    "PG-0634-CS",
+    40
+   ]
+  ],
+  "expect_touchless": false,
+  "channel": "web_form",
+  "file": "form_5",
+  "case_id": 89
+ },
+ {
+  "ref": null,
+  "kind": "form",
+  "po_true": "NW-61856",
+  "true_account": "C-1023",
+  "fix_need": "2026-10-28",
+  "ship_true": "S02",
+  "lines_all": [
+   {
+    "sku": "BV-0834-SS",
+    "fix_qty": 50
+   },
+   {
+    "sku": "AD-0634-CS",
+    "fix_qty": 20
+   }
+  ],
+  "customer": "C-1023",
+  "defects": [
+   "past_date"
+  ],
+  "expected_codes": [
+   "PAST_DATE"
+  ],
+  "expected_lines": [
+   [
+    "BV-0834-SS",
+    50
+   ],
+   [
+    "AD-0634-CS",
+    20
+   ]
+  ],
+  "expect_touchless": false,
+  "channel": "web_form",
+  "file": "form_6",
+  "case_id": 90
+ }
+]

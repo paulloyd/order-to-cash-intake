@@ -1,0 +1,21 @@
+From: Casey.Dunmore <casey.dunmore@dunmore.example>
+To: orders@northfield.example
+Subject: New order 4500665226
+Date: Mon, 12 Oct 2026 08:38:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+Purchase Order: 4500665226
+Deliver by Oct 31, 2026
+Ship to: 7608 Harbor Way, Omaha, NE 68102
+
+Qty: 25 Part: BV1012SS
+
+Thanks,
+Casey
+Dunmore Industrial Supply
+Account: C-1003

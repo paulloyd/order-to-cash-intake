@@ -1,0 +1,21 @@
+From: Morgan.Westbrook <morgan.westbrook@westbrook.example>
+To: orders@northfield.example
+Subject: New order
+Date: Tue, 13 Oct 2026 22:18:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO number: CE-47189
+Required by 2026-11-12
+Ship to: S01
+
+- qc-0634-br
+PG-0634-CS - 6 pcs
+
+Thanks,
+Morgan
+Westbrook Concrete

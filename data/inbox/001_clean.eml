@@ -1,0 +1,21 @@
+From: Jamie.Summit <jamie.summit@summit.example>
+To: orders@northfield.example
+Subject: New order NW-34983
+Date: Mon, 12 Oct 2026 07:33:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO: NW-34983
+Need by 11/3/2026
+Ship to: Tampa FL 33602
+
+Qty: 30 Part: HF-0834-BR
+
+Thanks,
+Jamie
+Summit Rail Services
+Account: C-1018

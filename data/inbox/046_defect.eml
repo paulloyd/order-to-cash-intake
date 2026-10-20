@@ -1,0 +1,22 @@
+From: Chris.Blue <chris.blue@blue.example>
+To: orders@northfield.example
+Subject: New order
+Date: Tue, 13 Oct 2026 03:45:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO: 4500390819
+Required by 27 Oct 2026
+Ship to: S01
+
+QC-1012-C5 x 8
+10 x BV-0412-CS
+1 x hf-0412-cs
+
+Thanks,
+Chris
+Blue Heron Dredging

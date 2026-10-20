@@ -1,0 +1,22 @@
+From: Morgan.Xenia <morgan.xenia@xenia.example>
+To: orders@northfield.example
+Subject: New order
+Date: Tue, 13 Oct 2026 05:31:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO: 4500285542
+Need by 2026-11-09
+Ship to: 8918 Harbor Way, Albany, NY 12207
+
+Qty: 2 Part: QC-0834-SS
+50 x QC-0834-CS
+2 x PG-1012-B5
+
+Thanks,
+Morgan
+Xenia Plastics

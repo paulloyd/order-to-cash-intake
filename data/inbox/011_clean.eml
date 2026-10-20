@@ -1,0 +1,18 @@
+From: Purchasing <purchasing@evergreen.example>
+To: orders@northfield.example
+Subject: Order request 4500200599
+Date: Mon, 12 Oct 2026 15:02:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: 4500200599
+Deliver by 10/21/2026
+
+SK0412CS qty 2 @ $10.86
+
+Thanks,
+Purchasing
+Evergreen Paper Mills

@@ -1,0 +1,19 @@
+From: Purchasing <purchasing@brightwater.example>
+To: orders@northfield.example
+Subject: New order 4500153274
+Date: Mon, 12 Oct 2026 13:46:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO# 4500153274
+Need by 2026-11-10
+
+HF-0412-SS - 2 pcs
+
+Thanks,
+Purchasing
+Brightwater Hydraulics

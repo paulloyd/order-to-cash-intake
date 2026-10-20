@@ -1,0 +1,21 @@
+From: Jordan.Keystone <jordan.keystone@keystone.example>
+To: orders@northfield.example
+Subject: Order request NW-31574
+Date: Tue, 13 Oct 2026 23:59:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: NW-31574
+Deliver by 2026-10-27
+Ship to: 7811 Commerce Dr, Albany, NY 12207
+
+QC-0412-SS qty 20 @ $13.33
+PG-0412-CS qty 7 @ $16.80
+HF-0834-BR qty 5 @ $7.56
+
+Thanks,
+Jordan
+Keystone Mining Services

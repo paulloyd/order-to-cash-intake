@@ -1,0 +1,22 @@
+From: Purchasing <purchasing@oakmont.example>
+To: orders@northfield.example
+Subject: New order CE-13766
+Date: Tue, 13 Oct 2026 21:00:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+Purchase Order: CE-13766
+Deliver by 10/25/2026
+
+10 pcs of 1/2 inch stainless elbow
+Qty: 15 Part: HF-0634-BR
+AD-0834-SS x 8
+
+Thanks,
+Purchasing
+Oakmont Food Processing
+Account: C-1014

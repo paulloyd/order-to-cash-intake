@@ -1,0 +1,23 @@
+From: Jordan.Lakeshore <jordan.lakeshore@lakeshore.example>
+To: orders@northfield.example
+Subject: New order
+Date: Tue, 13 Oct 2026 03:39:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO number: 4500347810
+Deliver by 26 Oct 2026
+Ship to: S01
+
+Qty: 30 Part: SK-1012-S5
+40 x ad-1012-cs
+10 x HF0834CS
+
+Thanks,
+Jordan
+Lakeshore Marine Repair
+Account: C-1011

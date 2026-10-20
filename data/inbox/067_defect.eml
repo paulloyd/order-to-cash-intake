@@ -1,0 +1,20 @@
+From: Buyer <buyer@newshop.example>
+To: orders@northfield.example
+Subject: New order 4500183122
+Date: Tue, 13 Oct 2026 16:55:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO# 4500183122
+Required by Oct 23, 2026
+
+AD-0834-SS x 10
+60 pcs BV0834SS
+
+Thanks,
+Buyer
+Walkin Supply Ltd

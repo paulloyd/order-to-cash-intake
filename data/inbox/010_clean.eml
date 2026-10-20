@@ -1,0 +1,21 @@
+From: Purchasing <purchasing@upland.example>
+To: orders@northfield.example
+Subject: New order
+Date: Mon, 12 Oct 2026 14:55:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+Purchase Order: CE-78617
+Need by Nov 16, 2026
+Ship to: Omaha NE 68102
+
+Qty: 2 Part: HF-1012-BR
+BV1012BR x 6
+
+Thanks,
+Purchasing
+Upland Forestry Equipment

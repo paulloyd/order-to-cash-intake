@@ -1,0 +1,350 @@
+[
+ {
+  "increment_id": "MG-100045",
+  "created_at": "2026-10-14T02:30:00",
+  "customer_email": "morgan.yardley@yardley.example",
+  "payment": {
+   "po_number": "XR-25717"
+  },
+  "items": [
+   {
+    "sku": "BV-0412-CS",
+    "qty_ordered": 10,
+    "price": 9.2
+   },
+   {
+    "sku": "HA-0412-SS",
+    "qty_ordered": 20,
+    "price": 55.94
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "6555 Harbor Way"
+       ],
+       "city": "Akron",
+       "region_code": "OH",
+       "postcode": "44308"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100046",
+  "created_at": "2026-10-14T03:12:00",
+  "customer_email": "sam.juniper@juniper.example",
+  "payment": {
+   "po_number": "4500987458"
+  },
+  "items": [
+   {
+    "sku": "QC-0412-BR",
+    "qty_ordered": 25,
+    "price": 9.8
+   },
+   {
+    "sku": "QC-0834-CS",
+    "qty_ordered": 10,
+    "price": 14.11
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "4188 Industrial Pkwy"
+       ],
+       "city": "Tampa",
+       "region_code": "FL",
+       "postcode": "33602"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100047",
+  "created_at": "2026-10-14T05:26:00",
+  "customer_email": "chris.delta@delta.example",
+  "payment": {
+   "po_number": "4500709769"
+  },
+  "items": [
+   {
+    "sku": "BV-0412-BR",
+    "qty_ordered": 20,
+    "price": 11.88
+   },
+   {
+    "sku": "HF-0834-CS",
+    "qty_ordered": 10,
+    "price": 5.75
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "1829 Mill St"
+       ],
+       "city": "Albany",
+       "region_code": "NY",
+       "postcode": "12207"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100048",
+  "created_at": "2026-10-14T05:42:00",
+  "customer_email": "chris.juniper@juniper.example",
+  "payment": {
+   "po_number": "CE-98819"
+  },
+  "items": [
+   {
+    "sku": "AD-0634-CS",
+    "qty_ordered": 10,
+    "price": 3.35
+   },
+   {
+    "sku": "HA-0634-SS",
+    "qty_ordered": 3,
+    "price": 82.08
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "4188 Industrial Pkwy"
+       ],
+       "city": "Tampa",
+       "region_code": "FL",
+       "postcode": "33602"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100049",
+  "created_at": "2026-10-14T05:53:00",
+  "customer_email": "purchasing@prairie.example",
+  "payment": {},
+  "items": [
+   {
+    "sku": "HA-0634-SS",
+    "qty_ordered": 1,
+    "price": 77.98
+   },
+   {
+    "sku": "QC-0834-BR",
+    "qty_ordered": 50,
+    "price": 16.76
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "6988 Mill St"
+       ],
+       "city": "Reno",
+       "region_code": "NV",
+       "postcode": "89501"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100050",
+  "created_at": "2026-10-14T06:22:00",
+  "customer_email": "chris.delta@delta.example",
+  "payment": {
+   "po_number": "4500438580"
+  },
+  "items": [
+   {
+    "sku": "BV-1012-CS",
+    "qty_ordered": 2,
+    "price": 24.0
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "1829 Mill St"
+       ],
+       "city": "Albany",
+       "region_code": "NY",
+       "postcode": "12207"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100051",
+  "created_at": "2026-10-14T06:48:00",
+  "customer_email": "casey.dunmore@dunmore.example",
+  "payment": {
+   "po_number": "CE-77299"
+  },
+  "items": [
+   {
+    "sku": "BV-0412-SS",
+    "qty_ordered": 5,
+    "price": 20.0
+   },
+   {
+    "sku": "BV-0834-SS",
+    "qty_ordered": 20,
+    "price": 36.0
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "7608 Harbor Way"
+       ],
+       "city": "Omaha",
+       "region_code": "NE",
+       "postcode": "68102"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100052",
+  "created_at": "2026-10-14T07:31:00",
+  "customer_email": "taylor.quarry@quarry.example",
+  "payment": {
+   "po_number": "4500872754"
+  },
+  "items": [
+   {
+    "sku": "PG-0412-BR",
+    "qty_ordered": 10,
+    "price": 21.0
+   },
+   {
+    "sku": "PG-0412-CS",
+    "qty_ordered": 7,
+    "price": 16.8
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "2880 Industrial Pkwy"
+       ],
+       "city": "Omaha",
+       "region_code": "NE",
+       "postcode": "68102"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100053",
+  "created_at": "2026-10-14T07:59:00",
+  "customer_email": "jamie.quarry@quarry.example",
+  "payment": {
+   "po_number": "CE-46286"
+  },
+  "items": [
+   {
+    "sku": "PG-1012-BR",
+    "qty_ordered": 21,
+    "price": 50.4
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "2880 Industrial Pkwy"
+       ],
+       "city": "Omaha",
+       "region_code": "NE",
+       "postcode": "68102"
+      }
+     }
+    }
+   ]
+  }
+ },
+ {
+  "increment_id": "MG-100054",
+  "created_at": "2026-10-14T08:22:00",
+  "customer_email": "walkin@webshopper.example",
+  "payment": {
+   "po_number": "CE-90272"
+  },
+  "items": [
+   {
+    "sku": "QC-0834-SS",
+    "qty_ordered": 1,
+    "price": 24.83
+   },
+   {
+    "sku": "SK-0634-CS",
+    "qty_ordered": 20,
+    "price": 14.02
+   }
+  ],
+  "extension_attributes": {
+   "shipping_assignments": [
+    {
+     "shipping": {
+      "address": {
+       "street": [
+        "2188 Industrial Pkwy"
+       ],
+       "city": "Boise",
+       "region_code": "ID",
+       "postcode": "83702"
+      }
+     }
+    }
+   ]
+  }
+ }
+]

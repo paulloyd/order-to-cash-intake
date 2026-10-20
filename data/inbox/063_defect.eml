@@ -1,0 +1,22 @@
+From: Jordan.Tidewater <jordan.tidewater@tidewater.example>
+To: orders@northfield.example
+Subject: Order request
+Date: Tue, 13 Oct 2026 14:51:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: 4500150546
+Deliver by 6 Nov 2026
+Ship to: S02
+
+QC-0634-SS qty 8 @ $19.48
+HA-1012-SS qty 25 @ $134.25
+sk-0412-cs qty 1 @ $10.86
+
+Thanks,
+Jordan
+Tidewater Shipyards
+Account: C-1019

@@ -1,0 +1,21 @@
+From: Drew.Redline <drew.redline@redline.example>
+To: orders@northfield.example
+Subject: New order 4500269707
+Date: Wed, 14 Oct 2026 01:07:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO number: 4500269707
+Deliver by Oct 22, 2026
+
+QC-0412-BR - 15 pcs
+- BV-0634-CS
+SK-0634-CS - 11 pcs
+
+Thanks,
+Drew
+Redline Truck Bodies

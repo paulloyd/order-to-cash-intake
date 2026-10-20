@@ -1,0 +1,20 @@
+From: Purchasing <purchasing@cascade.example>
+To: orders@northfield.example
+Subject: Order request XR-81833
+Date: Tue, 13 Oct 2026 08:39:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hello,
+
+Purchase Order: XR-81833
+Deliver by 3 Nov 2026
+Ship to: Spokane WA 99201
+
+BV0412CS qty 5 @ $8.80
+qc-0634-br qty 5 @ $9.89
+
+Thanks,
+Purchasing
+Cascade Equipment Co

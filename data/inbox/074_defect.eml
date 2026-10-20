@@ -1,0 +1,20 @@
+From: Taylor.Oakmont <taylor.oakmont@oakmont.example>
+To: orders@northfield.example
+Subject: New order 4500050759
+Date: Tue, 13 Oct 2026 21:51:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi team,
+
+Please enter the following order.
+PO: 4500050759
+Deliver by 10/31/2026
+
+PG-1012-CS - 25 pcs
+SK-1012-SS x 45
+
+Thanks,
+Taylor
+Oakmont Food Processing
