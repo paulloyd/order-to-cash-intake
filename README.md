@@ -41,7 +41,7 @@ flowchart LR
 | `app/streamlit_app.py` | Rep dashboard, exception queue, customer portal (order form + status), systems view |
 | `otc/api.py` | FastAPI endpoints for n8n / Power Automate |
 | `workflow/n8n_order_intake.json` | Starter n8n workflow (IMAP -> API -> notify rep; Magento poll; portal webhook) |
-| `docs/` | Setup checklist, BC field mapping, Power Automate design spec, video script |
+| `docs/` | BC field mapping, Power Automate design spec |
 | `tests/` | 16 tests incl. failure modes (CRM outage, ERP duplicate guard, LLM failure, quoted-reply noise) |
 
 ## Results on the synthetic run (`python run_demo.py`)
@@ -73,5 +73,3 @@ flowchart LR
 - Rules parser gaps found by probing: quantities like "2 dozen" and "same as last time" produce a clarification (safe) rather than an order; numeric dates assume US m/d/y; description-only lines need a human or the LLM path.
 - Stock is checked but not reserved; no tax, currency or substitutions; reply-parsing of customer answers is out of scope (reps enter the answer).
 - Customer-answer and shipment steps in the demo are simulated using the ground truth.
-
-Setup and screenshot checklist: `docs/setup.md`
